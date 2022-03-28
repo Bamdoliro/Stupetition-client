@@ -1,3 +1,5 @@
 ### Set project
 
-> npx create-react-app [project name]
+```
+npx create-react-app [project name]
+```
